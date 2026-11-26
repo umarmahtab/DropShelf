@@ -1,0 +1,9 @@
+backend/
+requirements.txt
+data/
+.venv/
+.next/
+out/
+node_modules/
+.env*
+*.sqlite*
